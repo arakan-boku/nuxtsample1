@@ -9,6 +9,7 @@
       <img src="/post.JPG" alt="image02">
     </div>
     <div class="columns">
+      <div class="column" />
       <div class="column">
         <div class="column">
           <b-field label="郵便番号">
@@ -41,7 +42,6 @@
     </div>
   </div>
 </template>
-
 <script>
 import axios from 'axios'
 export default {
